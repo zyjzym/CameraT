@@ -3,7 +3,7 @@ int
 main(int argc, char *argv[])
 {
 	char mem[1034] = {0};
-	int a = 1;
+	float a = 2.0;
 	while(1)
 	{
 	  memcpy(mem, "hello my friend", 100); 
